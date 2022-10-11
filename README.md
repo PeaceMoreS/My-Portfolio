@@ -11,5 +11,6 @@ The timeComplexitiesLOOP.py file runs the whole program in a never ending loop.
 _________________________________________
 
 Universities Linkedlist Database 
-The universities.java file creates an interactive mock university database using a linkedlist. You can choose to add universities, students, courses and much more. 
+
+The universities.java file is a interactive mock university database using a linkedlist programmed in java. You can choose to add universities, students, courses and much more. 
 ________________________________________________
