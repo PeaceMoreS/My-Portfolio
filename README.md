@@ -10,5 +10,5 @@ _________________________________________
 
 ----------- UNIVERSITIES ------------------
 
-The universities.java file creates an interactive mock university database using a link list, you can choose to add universities, students, courses and more. 
+The universities.java file creates an interactive mock university database using a linkedlist. You can choose to add universities, students, courses and much more. 
 ________________________________________________
