@@ -1,7 +1,7 @@
 # University-Projects
 moh.wajidlatif@gmail.com
 
-My University Projects
+My Portfolio
 
 Time Complexities
 
