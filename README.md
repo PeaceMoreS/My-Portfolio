@@ -1,4 +1,4 @@
-# University-Projects
+# My Portfolio
 moh.wajidlatif@gmail.com
 
 My Portfolio
